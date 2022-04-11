@@ -1,4 +1,5 @@
 // FARSITE.cpp : Defines the exported functions for the DLL application.
+//为DLL应用定义输出函数
 //
 
 //#include "stdafx.h"
